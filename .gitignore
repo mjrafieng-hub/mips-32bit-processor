@@ -1,0 +1,18 @@
+# Xilinx ISE/Vivado/ModelSim generated files
+*.log
+*.jou
+*.xise
+_xmsgs/
+xlnx_auto_0_xdb/
+*.srcs/
+*.sim/
+*.cache/
+webtalk*.html
+webtalk*.xml
+
+# System files
+.DS_Store
+
+# Build directory
+build/*
+!build/.keep
